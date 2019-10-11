@@ -1,0 +1,8 @@
+Data sets:
+1. Life expectancy 
+2. World Happiness
+3. National Footprint
+4. UN Data
+
+Relationship: Country
+Goal: Join tables by common relationship
