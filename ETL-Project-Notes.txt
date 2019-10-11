@@ -1,8 +1,10 @@
 Data sets:
-1. Life expectancy 
-2. World Happiness
-3. National Footprint
+1. Life expectancy - Jon
+2. World Happiness 
+3. National Footprint - Jon
 4. UN Data
 
 Relationship: Country
-Goal: Join tables by common relationship
+Goal: Join tables by common relationship using Python & SQLAlchemy
+
+- slack out 5/6
